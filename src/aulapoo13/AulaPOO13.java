@@ -22,9 +22,10 @@ public class AulaPOO13 {
         Geralt.emitirSom();
         Peludinho.emitirSom();  */
        Peludinho.reagir(2,12.5f);
-       Peludinho.reagir(17, 4.5f);
+       Peludinho.reagir(18, 4.5f);
        Peludinho.setCorPelo("Marrom");
        Geralt.setCorPelo("Branco");
+       Geralt.emitirSom();
         
     }
     
